@@ -17,7 +17,7 @@ class Calculator:
 
     def mult(self):
         # MULTIPLICATION
-        print("Select two numbers to multiply: ")
+        print("Select two numbers to multiply: ") # Asks user for numbers
         f_number = int(input("What is the first number: "))
         s_number = int(input("What is the second number: "))
         # total multiplication
